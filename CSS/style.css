@@ -1,0 +1,18 @@
+.welcome{
+    background-image: url(/assets/backgrounds/welcome.jpg)
+}
+.services{
+    background-image: url(/assets/backgrounds/services.jpg);
+}
+.contactform{
+    background-image: url(/assets/backgrounds/contact.jpg);
+}
+.welcome h3{
+    color: white;
+     
+}
+.welcome h5{
+    color: white;
+   
+    
+}
