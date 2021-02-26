@@ -15,5 +15,8 @@
     color: white;
 }
 .aboutus{
-    padding: 50px;
+    display: flexbox;
+    margin-top: 60px;
+
 }
+
