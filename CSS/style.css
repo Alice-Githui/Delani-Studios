@@ -1,15 +1,15 @@
 .welcome{ 
-    background-image: url(/assets/backgrounds/welcome.jpg);
+    background-image: url(../assets/backgrounds/welcome.jpg);
     background-size: cover;
     background-position: center;
  } 
 .services{ 
-    background-image: url(/assets/backgrounds/services.jpg);
+    background-image: url(../assets/backgrounds/services.jpg);
     background-size: cover;
     background-position: center;
  } 
 .contactform{
-    background-image: url(/assets/backgrounds/contact.jpg);
+    background-image: url(../assets/backgrounds/contact.jpg);
     background-size: cover;
     background-position: center;
 }
