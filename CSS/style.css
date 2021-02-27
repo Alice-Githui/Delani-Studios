@@ -123,3 +123,11 @@
     border: 1px solid white;
     margin-top: 20px;
 }
+.socials{
+    margin-top: 10px;
+    align-content: center;
+    text-align: center;
+}
+.socials img{
+    width: 25px;
+}
