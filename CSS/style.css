@@ -60,3 +60,32 @@
     padding-right: 90px;
     padding-left: 90px;
 }
+.contactform{
+    display: flex;
+    height: 350px;
+    margin-top: 10px;
+}
+.contactform h4{
+    text-align: center;
+    padding-top: 20px;
+    color:white;
+    align-items: center;
+    justify-content: center;
+}
+
+.contactform input{
+    margin-top: 60px;
+    background-color: unset;
+    border: 1px solid white;
+    width: 370px;
+    
+}
+.contactform textarea{
+    display: block;
+    padding-top: 10px;
+    background-color: unset;
+    width: 700px;
+    height: 200px;
+    border: 1px solid white;
+    margin-top: 20px;
+}
