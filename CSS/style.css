@@ -131,3 +131,10 @@
 .socials img{
     width: 25px;
 }
+
+.show h6{
+    text-align: center;
+}
+.show{
+    display: none;
+}
