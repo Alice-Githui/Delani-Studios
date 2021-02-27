@@ -79,6 +79,41 @@
     text-align: center;
     margin-right: 15px;
 }
+.show h6{
+    text-align: center;
+}
+#show-design{
+    display: none; 
+    text-align: center;
+    position: relative;
+    background-color: white;
+    overflow: hidden;
+    transform: translate(-30%, -70%);
+    transition: all 0.5sec ease-in-out;
+    text-align: center;    
+}
+
+#show-development{
+    display:none; 
+    text-align: center;
+    position: relative;
+    background-color: white;
+    overflow: hidden;
+    transform: translate(-30%, -70%);
+    transition: all 0.5sec ease-in-out;
+    text-align: center;
+    
+}
+#show-productmanagement{
+    display: none; 
+    text-align: center;
+    position: relative;
+    background-color: white;
+    overflow: hidden;
+    transform: translate(-20%, -80%);
+    transition: all 0.5sec ease-in-out;
+    text-align: center;
+}
 
 .portfolio{
     width: 950px;
@@ -139,7 +174,7 @@
 .show h6{
     text-align: center;
 }
-#show-design{
+/* #show-design{ 
     display: none; 
     text-align: center;
     position: relative;
@@ -170,5 +205,5 @@
     transform: translate(-20%, -80%);
     transition: all 0.5sec ease-in-out;
     text-align: center;
-}
+}  */
 
