@@ -130,6 +130,9 @@
     margin-right: 10px;
     border: 1px solid black;
 }
+.portfolio-name{
+    text-align: center;
+}
 .contactform{
     display: flex;
     /* height: 350px; */
