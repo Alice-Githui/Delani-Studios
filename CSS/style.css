@@ -60,12 +60,32 @@
     padding-right: 90px;
     padding-left: 90px;  
 }
+.whatwedo{
+    width: 980px;
+    padding-left: 200px;
+
+}
+.whatwedo h4{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.whatwedo img{
+    margin-left: 80px;
+    width: 50px;
+}
+.whatwedo p{
+    font-size: 15px;
+    text-align: center;
+    margin-right: 15px;
+}
+
 .portfolio{
     width: 950px;
     align-items: center;
     padding-left: 200px;
 }
-.portfolio h5{
+.portfolio h4{
     text-align: center;
 }
 .portfolio-logo img{
