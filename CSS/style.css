@@ -30,8 +30,8 @@
    
 }
 .aboutus{
-    display: flexbox;
-    margin-top: 60px;
+    margin: 60px 130px;
+    text-align: center;
 
 }
 
