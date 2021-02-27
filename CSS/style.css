@@ -58,17 +58,21 @@
 .services p{
     color:white;
     padding-right: 90px;
-    padding-left: 90px;
+    padding-left: 90px;  
 }
 .portfolio{
-    
+    width: 950px;
+    align-items: center;
+    padding-left: 200px;
 }
-.porfolio-logo{
-    
+.portfolio h5{
+    text-align: center;
 }
-
-.portfolio img{
-    
+.portfolio-logo img{
+    margin: 10px;
+    width: 180px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 .contactform{
     display: flex;
