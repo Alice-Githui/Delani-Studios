@@ -1,18 +1,33 @@
-.welcome{
+.welcome{ 
     background-image: url(/assets/backgrounds/welcome.jpg);
-}
+ } 
 .services{
     background-image: url(/assets/backgrounds/services.jpg);
 }
 .contactform{
     background-image: url(/assets/backgrounds/contact.jpg);
 }
-.welcome h3{
-    color: white;
-     
+
+.welcome{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+
 }
-.welcome h5{
-    color: white;
+ /* .welcome img{   
+    
+    padding-bottom: 50px;
+    
+ }   */
+
+.welcome h3{
+    color: white
+}
+.welcome h4, h6{
+    color: white
+   
 }
 .aboutus{
     display: flexbox;
