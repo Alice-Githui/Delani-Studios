@@ -1,11 +1,17 @@
 .welcome{ 
     background-image: url(/assets/backgrounds/welcome.jpg);
+    background-size: cover;
+    background-position: center;
  } 
-.services{
+.services{ 
     background-image: url(/assets/backgrounds/services.jpg);
-}
+    background-size: cover;
+    background-position: center;
+ } 
 .contactform{
     background-image: url(/assets/backgrounds/contact.jpg);
+    background-size: cover;
+    background-position: center;
 }
 
 .welcome{
@@ -25,13 +31,32 @@
 .welcome h3{
     color: white
 }
-.welcome h4, h6{
+.welcome h4{
     color: white
    
+}
+.welcome h6{
+    color: white
 }
 .aboutus{
     margin: 60px 130px;
     text-align: center;
 
 }
+.services{
+    text-align: center;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+}
 
+.services h5{
+    color:white;
+    padding-top: 70px;
+}
+
+.services p{
+    color:white;
+    padding-right: 90px;
+    padding-left: 90px;
+}
