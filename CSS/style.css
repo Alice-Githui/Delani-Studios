@@ -97,7 +97,7 @@
 }
 .contactform{
     display: flex;
-    height: 350px;
+    /* height: 350px; */
     margin-top: 10px;
 }
 .contactform h4{
@@ -108,13 +108,15 @@
     justify-content: center;
 }
 
-.contactform input{
-    margin-top: 60px;
+#mc_embed_signup input{
+    margin-top: 30px;
     background-color: unset;
     border: 1px solid white;
-    width: 370px;
+    width: 300px;
+    color: white;
     
 }
+
 .contactform textarea{
     display: block;
     padding-top: 10px;
@@ -123,6 +125,7 @@
     height: 200px;
     border: 1px solid white;
     margin-top: 20px;
+    color: white;
 }
 .socials{
     margin-top: 10px;

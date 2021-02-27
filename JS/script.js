@@ -19,6 +19,6 @@ jQuery(".productmanagement").hover(function() {
 })
 
 //alert on submission of details
-jQuery('#submit').click(function(){
+jQuery('#mc-embedded-submit').click(function(){
     alert('We have received your message. Thank you for reaching out to us!')
 })
