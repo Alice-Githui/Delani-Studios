@@ -93,6 +93,7 @@
     width: 180px;
     margin-left: 10px;
     margin-right: 10px;
+    border: 1px solid black;
 }
 .contactform{
     display: flex;
@@ -135,6 +136,36 @@
 .show h6{
     text-align: center;
 }
-.show{
-    display: none;
+#show-design{
+    display: none; 
+    text-align: center;
+    position: relative;
+    background-color: white;
+    overflow: hidden;
+    transform: translate(-50%, -50%);
+    transition: all 0.5sec ease-in-out;
+    text-align: center;    
 }
+
+#show-development{
+    display:none; 
+    text-align: center;
+    position: relative;
+    background-color: white;
+    overflow: hidden;
+    transform: translate(-50%, -50%);
+    transition: all 0.5sec ease-in-out;
+    text-align: center;
+    
+}
+#show-productmanagement{
+    display: none; 
+    text-align: center;
+    position: relative;
+    background-color: white;
+    overflow: hidden;
+    transform: translate(-50%, -50%);
+    transition: all 0.5sec ease-in-out;
+    text-align: center;
+}
+
