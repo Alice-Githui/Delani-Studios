@@ -82,6 +82,7 @@
 .show h6{
     text-align: center;
 }
+/* Styling for the hover toggle effect */
 #show-design{
     display: none; 
     text-align: center;
@@ -130,9 +131,26 @@
     margin-right: 10px;
     border: 1px solid black;
 }
+.portfolio-name{ 
+    display: none;
+    text-align: center; 
+} 
+
+
+/* Styling for the hover effect */
+/*
+
 .portfolio-name{
+    display: none;
+    text-align: center;
+    opacity: 0;
+    position: absolute;
+    transform: translate(-50%, -50%);   
     text-align: center;
 }
+.portfolio-name p{
+    background-color: white;
+} */
 .contactform{
     display: flex;
     /* height: 350px; */

@@ -22,3 +22,9 @@ jQuery(".productmanagement").hover(function() {
 jQuery('#mc-embedded-submit').click(function(){
     alert('We have received your message. Thank you for reaching out to us!')
 })
+
+//show the projects name on hover
+jQuery(".portfolio-logo").hover(function(){
+        jQuery(".portfolio-name").toggle();
+
+})
