@@ -25,6 +25,6 @@ jQuery('#mc-embedded-submit').click(function(){
 
 //show the projects name on hover
 jQuery(".portfolio-logo").hover(function(){
-        jQuery(".portfolio-name").toggle();
+        jQuery('.portfolio-name').toggle();
 
-})
+}) 
