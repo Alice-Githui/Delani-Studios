@@ -28,3 +28,24 @@ jQuery(".portfolio-logo").hover(function(){
         jQuery('.portfolio-name').toggle();
 
 }) 
+
+/*
+jQuery("#res-img").hover(function(){
+    jQuery("#restaurant").show();
+})
+
+jQuery("#burned-img").hover(function(){
+    jQuery("#burned").toggle();
+})
+
+jQuery("#form-img").hover(function(){
+    jQuery("#forminput").toggle();
+})
+
+jQuery("#elena-img").hover(function(){
+    jQuery("#elena").toggle();
+})
+
+jQuery("#mic-img").hover(function(){
+    jQuery("#micjarrey").toggle();
+}) */
