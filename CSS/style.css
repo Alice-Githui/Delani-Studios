@@ -212,6 +212,15 @@
 .show h6{
     text-align: center;
 }
+
+@media screen and (max-width: 600px) {
+    .container{
+        width: 100%;
+                       
+    }
+
+}
+/*moved the code higher up in the CSS*/
 /* #show-design{ 
     display: none; 
     text-align: center;
